@@ -20,7 +20,8 @@
           "apps/backend/src/assets"
         ],
         "isolatedConfig": true,
-        "webpackConfig": "apps/backend/webpack.config.js"
+        "webpackConfig": "apps/backend/webpack.config.js",
+        "generatePackageJson": true
       },
       "configurations": {
         "development": {},
